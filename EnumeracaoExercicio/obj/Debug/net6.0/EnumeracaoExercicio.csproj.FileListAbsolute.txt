@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\obj\Debug\net6.0\EnumeracaoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\obj\Debug\net6.0\EnumeracaoExercicio.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\obj\Debug\net6.0\EnumeracaoExercicio.AssemblyInfo.cs
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\obj\Debug\net6.0\EnumeracaoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\bin\Debug\net6.0\EnumeracaoExercicio.exe
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\bin\Debug\net6.0\EnumeracaoExercicio.deps.json
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\bin\Debug\net6.0\EnumeracaoExercicio.runtimeconfig.json
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\bin\Debug\net6.0\EnumeracaoExercicio.dll
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\bin\Debug\net6.0\EnumeracaoExercicio.pdb
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\obj\Debug\net6.0\EnumeracaoExercicio.dll
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\obj\Debug\net6.0\refint\EnumeracaoExercicio.dll
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\obj\Debug\net6.0\EnumeracaoExercicio.pdb
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\obj\Debug\net6.0\EnumeracaoExercicio.genruntimeconfig.cache
+C:\Users\PC\Desktop\CSharp_DotNet\EnumeracaoExercicio\EnumeracaoExercicio\obj\Debug\net6.0\ref\EnumeracaoExercicio.dll
